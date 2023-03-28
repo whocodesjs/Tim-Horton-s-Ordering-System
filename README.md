@@ -1,0 +1,2 @@
+# Tim Hortons Ordering System
+ The program creates a Tim Hortons ordering system that allows customers to select products, such as drinks and food items, and add them to their order. The program uses several classes, including the TimProduct class to represent products, the Consumable and Commodity interfaces to group similar types of products, and the TimsOrder class to manage customer orders. The program includes a main method that creates a new order and displays the order summary and amount due.
